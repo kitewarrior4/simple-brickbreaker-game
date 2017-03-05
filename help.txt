@@ -1,0 +1,21 @@
+This is a classic Brick Breaker game.
+Your objective is to shoot the black bricks and collect bricks of other colors in thier respective buckets.
+
+HOW TO PLAY
+
+MOUSE CONTROLS
+The direction of the cannon is controlled by your mouse pointer.
+Left click to shoot the laser.
+Left click and drag to reposition the cannon and buckets.
+Scroll Up to Zoom In.
+Scroll Down to Zoom Out.
+Right click and drag to pan the scene.
+
+KEYBOARD CONTROLS
+SPACE to shoot the laser.
+A and D to rotate the cannon.
+W and S to move it vertically.
+CTRL + LEFT ARROW KEY and CTRL + RIGHT ARROW KEY to move the Red Bucket horizontally.
+ALT+LEFT and ALT+RIGHT to move the Green Bucket horizontally.
+LEFT ARROW KEY and RIGHT ARROW KEY to pan the scene.
+UP ARROW KEY and DOWN ARROW KEY to zoom in/out.
