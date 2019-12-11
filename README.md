@@ -1,4 +1,5 @@
-Instructions for running the game
+# Computer Graphics: Assignment 1
+## Instructions for running the game
 
 METHOD 1:
 Run make in the main folder
